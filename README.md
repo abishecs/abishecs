@@ -1,24 +1,76 @@
-[![MasterHead](https://media.istockphoto.com/vectors/front-end-development-web-banner-concept-vector-id1167600197?k=20&m=1167600197&s=170667a&w=0&h=eXf3kFtGYdxrPeduZv6DcKSFhr9y0HaXgX3jcxObX_g=)](https://github.com/abishecs)
-<h1 align="center">Hi 👋, I'm Abishec Selvarajah</h1>
-<h3 align="center">Hello there! I’m Abishec Selvarajah, a proud Sri Lankan-born Canadian with a fervent passion for frontend development. My journey began amidst the rich cultural tapestry of Canada, where I was inspired by the endless possibilities of the web. Crafting user interfaces that are not just functional but also a delight to interact with is what I live for. I’m always on the lookout for the latest trends and technologies that can enhance the user experience. I love connecting with fellow enthusiasts and clients alike, so if you’re in need of a friendly developer who’s eager to bring your ideas to life, I’m your guy!</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
+[![Master Head](https://camo.githubusercontent.com/7b4d8672752c9eedc1a917e4e48c0a64a7e150ca6d80f7eb399d1ec886742a3a/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786244467762484a6d59586c68615864686247686a656d526b4e6e4a6f5a6d3433626d49775a585a7a626d453261574e776132557961535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f78543949677a6f4b6e77464e6d49535238492f67697068792e676966)](https://github.com/abishecs)
 
-- 🔭 I’m currently working on **A replica of uber**
+# Abishec Selvarajah 🚀 Data Science Engineer
 
-- 👯 I’m looking to collaborate on **any projects that peek my curiosity or are in a large scale**
+Hello there! I'm Abishec Selvarajah, a Data Science Engineer passionate about building robust systems and deriving meaningful insights from data. My experience includes ETL, data orchestration, and CI/CD, with a focus on leveraging Python and automation to drive data-driven decisions.
 
-- 💬 Ask me about **react or angular**
+I’m currently working on a replica of Uber to deepen my understanding of large-scale backend systems.
 
-- 📫 How to reach me **abishec123@gmail.com**
+## Summary
 
-- ⚡ Fun fact **I love dogs and cats**
+Proactive Data Engineer with 1 year of experience in ETL, data orchestration, and CI/CD. Integrated Git into Fabric for collaboration and real-time reporting, consistently seeking to drive data-driven decisions through automation and impactful projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codesandbox.com/abishecs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abishecs" height="30" width="40" /></a>
-</p>
+## Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Proficient in:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abishecs&show_icons=true&locale=en&layout=compact" alt="abishecs" /></p>
+*   **Languages/ML:** Python (Pandas, NumPy, scikit-learn, Matplotlib, PyTorch), R, SQL (MySQL, PostgreSQL, Hive)
+*   **Data Engineering:** ETL pipeline development, Apache Spark, Airflow, dbt, data validation, data transformation
+*   **MLOps:** Model training, model deployment, CI/CD, Git
+*   **Platforms/Tools:** Microsoft Fabric, Azure DevOps, SharePoint, Workiva, Power BI
+
+<br>
+
+Languages and Tools:
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a>
+
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abishecs&show_icons=true&locale=en&layout=compact)](https://github.com/abishecs)
+
+## Experience
+
+**Business Intelligence, Intern**
+# Pure Industrial — Toronto, ON
+## May 2025 -- Present
+
+*   Integrated Git version control into Fabric using CI/CD pipelines (Azure DevOps, Fabric Integrated Pipelines), improving workflow efficiency by **30%** and enabling seamless collaboration.
+*   Consolidated energy data from 5+ sources (ESPM, Schneider Energy, Redaptive, AlertLabs) to generate Budget vs Actuals and Monthly Consumption Usage reports, supporting real-time analytics and sustainability reporting.
+*   Automated PDF data extraction, validation, and transformation across 100+ documents, ensuring data accuracy and consistency for cross-functional teams.
+
+
+**Energy and Sustainability Analyst Intern**
+# Pure Industrial — Toronto, ON
+## September 2024 -- December 2024
+
+*   Resolved critical system issues within the first month, enabling immediate focus on optimizing Workiva workflows and improving operational efficiency.
+*   Implemented an automated data pipeline using SharePoint and Workiva, reducing manual effort by **40%** and improving data accuracy and governance.
+*   Developed a fully automated system for asset-level surveys, delivering granular property-level energy and utility data.
+*   Utilized Python and scripting tools to design and generate custom datasets and monthly reports, enhancing data accessibility.
+
+## Projects
+
+**Stock Analyzer** 
+## June 2025 -- August 2025
+
+*   Engineered a stock analyzer platform leveraging machine learning to deliver actionable insights, enhancing portfolio performance for users.
+*   Trained deep learning models using PyTorch to predict stock price trends with **90%** accuracy.
+*   Optimized model training pipelines using GPU acceleration, reducing training time by **40%**.
+*   Deployed models in production environments for real-time stock analysis.
+
+## Contact
+
+*   **Email:** abishec123@gmail.com
+*   **LinkedIn:** [linkedin.com/in/abishec-selvarajah-8103b8210](https://linkedin.com/in/abishec-selvarajah-8103b8210)
+*   **GitHub:** [github.com/abishecs](https://github.com/abishecs)
+
+## Fun Fact
+
+I love dogs and cats!
