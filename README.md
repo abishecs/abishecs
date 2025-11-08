@@ -1,6 +1,6 @@
 [![Master Head](https://camo.githubusercontent.com/7b4d8672752c9eedc1a917e4e48c0a64a7e150ca6d80f7eb399d1ec886742a3a/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786244467762484a6d59586c68615864686247686a656d526b4e6e4a6f5a6d3433626d49775a585a7a626d453261574e776132557961535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f78543949677a6f4b6e77464e6d49535238492f67697068792e676966)](https://github.com/abishecs)
 
-# Abishec Selvarajah 🚀 Data Science Engineer
+# Abishec Selvarajah  Data Science Engineer
 
 Hello there! I'm Abishec Selvarajah, a Data Science Engineer passionate about building robust systems and deriving meaningful insights from data. My experience includes ETL, data orchestration, and CI/CD, with a focus on leveraging Python and automation to drive data-driven decisions.
 
